@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.179af84f.css",
+    "main.js": "/static/js/main.cb829b3c.js",
+    "static/media/teslaclone.jpg": "/static/media/teslaclone.76c22dbf20adc99d0137.jpg",
+    "static/media/quicksidetool.jpg": "/static/media/quicksidetool.5c9c5cad0f408529c53c.jpg",
+    "static/media/profile.png": "/static/media/profile.fa4121d6433ac0d44ff9.png",
+    "static/media/appleclone.jpg": "/static/media/appleclone.a5624fadde5a7079b1e4.jpg",
+    "static/media/textutility.jpg": "/static/media/textutility.b38ba750b387f9c5f755.jpg",
+    "index.html": "/index.html",
+    "main.179af84f.css.map": "/static/css/main.179af84f.css.map",
+    "main.cb829b3c.js.map": "/static/js/main.cb829b3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.179af84f.css",
+    "static/js/main.cb829b3c.js"
+  ]
+}

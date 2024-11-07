@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Github, Linkedin, Twitter, Mail, ExternalLink, Download, ArrowRight, ArrowUp, Moon, Sun } from 'lucide-react';
-import profileImage from './Assests/profile.jpg';
+import profileImage from './Assests/profile.png';
 import quicksideImage from './Assests/quicksidetool.jpg';
 import appleCloneImage from './Assests/appleclone.jpg';
 import teslaCloneImage from './Assests/teslaclone.jpg';
